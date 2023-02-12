@@ -1,0 +1,72 @@
+img {
+
+    height: 90px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img_1 {
+    height: 170px;
+    padding: 20px 50px 20px;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlI94aBTN8D6oOZmgG027GLp0A-2Sm7jf_tA&usqp=CAU");
+
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 150px;
+    height: 200px;
+    font: bolder;
+    font-style: italic;
+    font-size: 150px;
+    background-image: url("https://media.istockphoto.com/id/476098860/vector/wonderful-morning-in-the-blue-mountains.jpg?s=612x612&w=0&k=20&c=0nuLvsWKXPReu01RvbXTKIwlUYxOQvoXD_qVBrsapxc=");
+    background-size: inherit;
+    color: #D61355;
+    font-feature-settings: "smcp", "zero";
+    width: 70%;
+    margin: 100px 200px 50px;
+    border-radius: 10px;
+    
+}
+
+.p3 {
+    height: 200px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.p1 {
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: #FFFBEB;
+    font-feature-settings: "smcp", "zero";
+    color: #CD0404;
+    font-size: 50px;
+    margin: 0px 450px 0px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/10/25/08/25/cupcakes-2887270__340.jpg");
+    background-size: 100px 100px;
+    width: 50%;
+    
+
+}
+
+hr {
+    border-style: dotted none none;
+    border-color:white;
+    border-width: 2px;
+    width: 60px;
+    border-top-width: 5px;
+    height: 50px;
+    
+}
